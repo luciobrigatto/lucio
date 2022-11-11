@@ -7,6 +7,10 @@ color: white;
 background-color: blue;
 }
 
+nav a {
+    text-decoration: none;
+}
+
 
 
 
